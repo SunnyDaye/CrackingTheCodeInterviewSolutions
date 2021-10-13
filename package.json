@@ -1,0 +1,30 @@
+{
+  "name": "crackingthecodeinterviewsolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register 'tests/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunnyDaye/CrackingTheCodeInterviewSolutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunnyDaye/CrackingTheCodeInterviewSolutions/issues"
+  },
+  "homepage": "https://github.com/SunnyDaye/CrackingTheCodeInterviewSolutions#readme",
+  "dependencies": {
+    "@types/chai": "^4.2.22",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.10.7",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.3.0"
+  }
+}
